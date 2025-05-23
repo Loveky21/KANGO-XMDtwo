@@ -15,7 +15,7 @@ if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 
 //--------------------[ SESSION ID ]----------------------//
 
-global.SESSION_ID = process.env.SESSION_ID || 'KANGO~Zql3BZQC#8hQE4SzeooarRgyYf3uJUc-WqYmp_biFNY6LCb0qNd4' 
+global.SESSION_ID = process.env.SESSION_ID || 'KANGO~lucRxBpJ#WHSyH487Ecy5BNRahJUv8-auajOMoZ4VYO5Eep8pyQw' 
 //Enter your KANGO-XMD session id here; must start with KANGO~
 
 //--------------------[ BOT NAME ]----------------------//
